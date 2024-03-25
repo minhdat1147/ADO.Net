@@ -1,0 +1,7 @@
+D:\ADO.Net\DataSetVsSQLServer\bin\Debug\DataSetVsSQLServer.exe.config
+D:\ADO.Net\DataSetVsSQLServer\bin\Debug\DataSetVsSQLServer.exe
+D:\ADO.Net\DataSetVsSQLServer\bin\Debug\DataSetVsSQLServer.pdb
+D:\ADO.Net\DataSetVsSQLServer\obj\Debug\DataSetVsSQLServer.csproj.AssemblyReference.cache
+D:\ADO.Net\DataSetVsSQLServer\obj\Debug\DataSetVsSQLServer.csproj.CoreCompileInputs.cache
+D:\ADO.Net\DataSetVsSQLServer\obj\Debug\DataSetVsSQLServer.exe
+D:\ADO.Net\DataSetVsSQLServer\obj\Debug\DataSetVsSQLServer.pdb

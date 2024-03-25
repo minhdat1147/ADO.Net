@@ -1,0 +1,7 @@
+D:\ADO.Net\KetNoiSQLServerDungDataTable\bin\Debug\KetNoiSQLServerDungDataTable.exe.config
+D:\ADO.Net\KetNoiSQLServerDungDataTable\bin\Debug\KetNoiSQLServerDungDataTable.exe
+D:\ADO.Net\KetNoiSQLServerDungDataTable\bin\Debug\KetNoiSQLServerDungDataTable.pdb
+D:\ADO.Net\KetNoiSQLServerDungDataTable\obj\Debug\KetNoiSQLServerDungDataTable.csproj.AssemblyReference.cache
+D:\ADO.Net\KetNoiSQLServerDungDataTable\obj\Debug\KetNoiSQLServerDungDataTable.csproj.CoreCompileInputs.cache
+D:\ADO.Net\KetNoiSQLServerDungDataTable\obj\Debug\KetNoiSQLServerDungDataTable.exe
+D:\ADO.Net\KetNoiSQLServerDungDataTable\obj\Debug\KetNoiSQLServerDungDataTable.pdb
